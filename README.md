@@ -4,6 +4,12 @@ a. AMQP stands for Advanced Message Queueing Protocol. Like HTTP, it is an appli
 
 b. `guest:guest@localhost:5672` means it is accessing `localhost` on port `5672` (the default for RabbitMQ) with user `guest`.
 
-## RabbitMQ
+## RabbitMQ one subscriber
 
-![rabbitmq](img/rabbitmq.png)
+![rabbitmq one subscriber](img/rabbitmq-one.png)
+
+## RabbitMQ three subscribers
+
+![rabbitmq three subscribers](img/rabbitmq-three.png)
+
+## Reflection
